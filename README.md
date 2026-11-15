@@ -2,6 +2,10 @@
 
 Abstract Thoughts is a dark palette sampled directly from the *My Abstract Thoughts* wallpaper: a deep navy background from the night sky and sea, a fiery red-orange accent from the burning clouds, teal-cyan from the glowing horizon, gold from the light beam, and a warm cream foreground from the sun. Gaps and animations are matched to the Primrose theme (`gaps_in = 2`, `gaps_out = 2`).
 
+## Preview
+
+![Theme preview](preview.png)
+
 ## Install
 
 ```bash
