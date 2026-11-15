@@ -13,8 +13,8 @@ omarchy theme install https://github.com/Korgen-Jurai/omarchy-abstract-thoughts-
 - Terminal palette (`colors.toml`) — drives Alacritty, Kitty, Foot, Ghostty, btop, VS Code, Obsidian, and more via Omarchy's built-in templates
 - Hyprland gaps/borders/animations (`hyprland.lua`)
 - Icon theme pointer (`icons.theme` → Yaru-red-dark)
-- Wallpaper (`backgrounds/1-abstract-thoughts.jpg`)
+- Wallpaper (`backgrounds/1-my-abstract-thoughts.jpg`)
 
 ## Wallpaper
 
-![Abstract Thoughts wallpaper](backgrounds/1-abstract-thoughts.jpg)
+![Abstract Thoughts wallpaper](backgrounds/1-my-abstract-thoughts.jpg)
